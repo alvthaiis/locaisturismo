@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Pagina de Receitas - É um projeto para ensinar as pessoas a fazerem uma receita.
 
-- [Acesse o projeto finalizado, online](https://alvthaiis.github.io/turismo)
+- [Acesse o projeto finalizado, online](https://alvthaiis.github.io/locaisturismo/)
 
 
